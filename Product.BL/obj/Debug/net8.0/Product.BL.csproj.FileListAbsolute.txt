@@ -1,0 +1,15 @@
+F:\Product.BL\bin\Debug\net8.0\Product.BL.deps.json
+F:\Product.BL\bin\Debug\net8.0\Product.BL.dll
+F:\Product.BL\bin\Debug\net8.0\Product.BL.pdb
+F:\Product.BL\bin\Debug\net8.0\Product.DAL.dll
+F:\Product.BL\bin\Debug\net8.0\Product.DAL.pdb
+F:\Product.BL\obj\Debug\net8.0\Product.BL.csproj.AssemblyReference.cache
+F:\Product.BL\obj\Debug\net8.0\Product.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Product.BL\obj\Debug\net8.0\Product.BL.AssemblyInfoInputs.cache
+F:\Product.BL\obj\Debug\net8.0\Product.BL.AssemblyInfo.cs
+F:\Product.BL\obj\Debug\net8.0\Product.BL.csproj.CoreCompileInputs.cache
+F:\Product.BL\obj\Debug\net8.0\Product.BL.csproj.Up2Date
+F:\Product.BL\obj\Debug\net8.0\Product.BL.dll
+F:\Product.BL\obj\Debug\net8.0\refint\Product.BL.dll
+F:\Product.BL\obj\Debug\net8.0\Product.BL.pdb
+F:\Product.BL\obj\Debug\net8.0\ref\Product.BL.dll

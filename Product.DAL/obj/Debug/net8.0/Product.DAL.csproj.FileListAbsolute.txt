@@ -1,0 +1,14 @@
+F:\Product.DAL\bin\Debug\net8.0\Product.DAL.deps.json
+F:\Product.DAL\bin\Debug\net8.0\Product.DAL.runtimeconfig.json
+F:\Product.DAL\bin\Debug\net8.0\Product.DAL.dll
+F:\Product.DAL\bin\Debug\net8.0\Product.DAL.pdb
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.csproj.AssemblyReference.cache
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.AssemblyInfoInputs.cache
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.AssemblyInfo.cs
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.csproj.CoreCompileInputs.cache
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.dll
+F:\Product.DAL\obj\Debug\net8.0\refint\Product.DAL.dll
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.pdb
+F:\Product.DAL\obj\Debug\net8.0\Product.DAL.genruntimeconfig.cache
+F:\Product.DAL\obj\Debug\net8.0\ref\Product.DAL.dll
